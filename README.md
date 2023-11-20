@@ -42,7 +42,7 @@ This portfolio is a curated experience crafted for localhost exploration, provid
 <img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.26.03.png" alt="Screenshot-2023-11-20-at-01.26.03.png" border="0" />
 </p>
 
-<h2>Here here we used a SQL Injestion to bypass the login pagea and successfully bypassed it; </h2>
+<h2>Here we used a SQL Injestion to bypass the login pagea and successfully bypassed it; </h2>
 
 <p align="center">
 <img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.23.43.png" alt="Screenshot-2023-11-20-at-01.23.43.png" border="0" />
