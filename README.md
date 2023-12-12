@@ -12,7 +12,7 @@ This portfolio is a curated experience crafted for localhost exploration, provid
 <br />
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.22.58.png" alt="Screenshot-2023-11-20-at-01.22.58.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/13/Screenshot-2023-11-20-at-01.22.58.png" alt="Screenshot-2023-11-20-at-01.22.58.png" border="0" />
 </p>
 <h2>Languages Used</h2>
 
@@ -25,7 +25,7 @@ This portfolio is a curated experience crafted for localhost exploration, provid
 <h2>Creating a user</h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.24.30.png" alt="Screenshot-2023-11-20-at-01.24.30.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/13/Screenshot-2023-11-20-at-01.24.30.png" alt="Screenshot-2023-11-20-at-01.24.30.png" border="0" />
 </p>
 
 <h2>Logging in as a user;</h2>
