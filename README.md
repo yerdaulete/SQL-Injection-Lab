@@ -12,7 +12,7 @@ This portfolio is a curated experience crafted for localhost exploration, provid
 <br />
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/12/13/Screenshot-2023-11-20-at-01.22.58.png" alt="Screenshot-2023-11-20-at-01.22.58.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.22.58.png" alt="Screenshot-2023-11-20-at-01.22.58.png" border="0" />
 </p>
 <h2>Languages Used</h2>
 
@@ -25,30 +25,30 @@ This portfolio is a curated experience crafted for localhost exploration, provid
 <h2>Creating a user</h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/12/13/Screenshot-2023-11-20-at-01.24.30.png" alt="Screenshot-2023-11-20-at-01.24.30.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.24.30.png" alt="Screenshot-2023-11-20-at-01.24.30.png" border="0" />
 </p>
 
 <h2>Logging in as a user;</h2>
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-03.07.19.png" alt="Screenshot-2023-11-20-at-03.07.19.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-03.07.19.png" alt="Screenshot-2023-11-20-at-03.07.19.png" border="0" />
 </p>
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.23.22.png" alt="Screenshot-2023-11-20-at-01.23.22.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.23.22.png" alt="Screenshot-2023-11-20-at-01.23.22.png" border="0" />
 </p>
 
 <h2>MySQL;</h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.26.03.png" alt="Screenshot-2023-11-20-at-01.26.03.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.26.03.png" alt="Screenshot-2023-11-20-at-01.26.03.png" border="0" />
 </p>
 
 <h2>Here we used a SQL Injestion to bypass the login pagea and successfully bypassed it; </h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.23.43.png" alt="Screenshot-2023-11-20-at-01.23.43.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.23.43.png" alt="Screenshot-2023-11-20-at-01.23.43.png" border="0" />
 </p>
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/Screenshot-2023-11-20-at-01.23.22cf934797148c5900.png" alt="Screenshot-2023-11-20-at-01.23.22cf934797148c5900.png" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/Screenshot-2023-11-20-at-01.23.228d611878928db075.png" alt="Screenshot-2023-11-20-at-01.23.228d611878928db075.png" border="0" />
 </p>
 
 <!--
